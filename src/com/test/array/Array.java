@@ -142,7 +142,6 @@ public class Array<E> {
     public E removeLast() {
         return remove(size - 1);
     }
-
     @Override
     public String toString() {
         StringBuilder res = new StringBuilder();

@@ -1,6 +1,5 @@
 package com.test.linked;
 
-import com.sun.tools.internal.ws.wsdl.document.jaxws.Exception;
 
 public class LinkedList<E> {
     private class Node {
